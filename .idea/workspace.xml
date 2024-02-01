@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12d8858f-08c5-4886-89e3-745345473e72" name="Changes" comment="" />
+    <list default="true" id="12d8858f-08c5-4886-89e3-745345473e72" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +38,7 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.OrangeHRMLoginTestPage">
+  <component name="RunManager" selected="JUnit.LoginTestPage">
     <configuration name="LoginTestPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OrangeHRM" />
       <extension name="coverage">
@@ -116,15 +118,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.OrangeHRMLoginTestPage" />
-        <item itemvalue="JUnit.OrangeHRMLoginTestPage.loginWithValidData" />
-        <item itemvalue="JUnit.OrangeHRMLoginTestPage.logout" />
-        <item itemvalue="JUnit.OrangeHRMLoginTestPage.loginWithEmptyData" />
-        <item itemvalue="JUnit.OrangeHRMLoginTestPage.loginWithInvalidData" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
